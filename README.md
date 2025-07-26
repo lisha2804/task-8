@@ -8,7 +8,7 @@ Built using HTML, CSS, and JavaScript. This task simulates a real-world e-commer
 
 # Live Demo
 
-[🔗 View Live](https://lisha2804.github.io/task8/)
+[🔗 View Live](https://lisha2804.github.io/task-8/)
 
 ---
 
