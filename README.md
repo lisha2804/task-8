@@ -16,11 +16,11 @@ Built using HTML, CSS, and JavaScript. This task simulates a real-world e-commer
 
 ### Desktop View
 
-![Desktop Screenshot](images/ss1.png)
+![Desktop Screenshot](images/ds1.png)
 
 ### Mobile View
 
-![Mobile Screenshot](images/ss2.png)
-![Mobile Screenshot](images/ss3.png)
+![Mobile Screenshot](images/ms1.png)
+![Mobile Screenshot](images/ms2.png)
 
 ---
